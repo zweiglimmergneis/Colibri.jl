@@ -1,0 +1,14 @@
+body {
+    background-color: hsl(211, 80%, 92%);
+}
+
+
+img.banner {
+    width: 100%;
+}
+
+div.markdown img {
+    max-width: 80%;
+    height: auto;
+}
+    
